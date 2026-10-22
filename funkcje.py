@@ -60,14 +60,14 @@
 
 # Zadanie 6 (bonus): fizzbuzz(n). Funkcja ma zwracać 'Fizz', 'Buzz', 'FizzBuzz' albo samą liczbę, a pętla poza nią wypisuje wyniki dla 1–50. Masz już gotowe rozwiązanie z sesji 2, więc to głównie przeniesienie print na return.
 
-def fizzbuzz(n):
-    if n % 3 == 0 and n % 5 == 0:
-        return 'FizzBuzz'
-    elif n % 5 == 0:
-        return 'Buzz'
-    elif n % 3 == 0:
-        return 'Fizz'
-    else:
-        return n
-for x in range(1, 51):
-    print(fizzbuzz(x))
+# def fizzbuzz(n):
+#     if n % 3 == 0 and n % 5 == 0:
+#         return 'FizzBuzz'
+#     elif n % 5 == 0:
+#         return 'Buzz'
+#     elif n % 3 == 0:
+#         return 'Fizz'
+#     else:
+#         return n
+# for x in range(1, 51):
+#     print(fizzbuzz(x))
