@@ -1,0 +1,9 @@
+
+Zadanie 5: lista zakupów
+Program wczytuje produkty w pętli, aż użytkownik wpisze koniec, i zapisuje je do listy. Potem:
+
+wypisuje listę posortowaną alfabetycznie i liczbę produktów,
+pyta o nazwę produktu do usunięcia i go usuwa (remove). Co się stanie, jeśli produktu nie ma na liście? Sprawdź warunkiem in, zanim go usuniesz.
+
+Zadanie 6 (bonus): usuwanie duplikatów
+Funkcja bez_duplikatow(lista) zwraca nową listę bez powtórzeń, zachowując kolejność pierwszych wystąpień. Przetestuj na [3, 1, 3, 2, 1, 5] (oczekiwany wynik [3, 1, 2, 5]).
