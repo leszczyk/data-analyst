@@ -126,7 +126,7 @@
 # Zbuduj słownik miasto: lista temperatur, a potem wypisz średnią temperaturę każdego miasta.
 # Podpowiedź: .setdefault(miasto, []) albo sprawdzenie in. To jest dokładnie operacja groupby, którą zobaczysz w Pandas.
 
-dane = [('Łódź', 10), ('Warszawa', 12), ('Łódź', 8), ('Kraków', 9), ('Warszawa', 14)]
+# dane = [('Łódź', 10), ('Warszawa', 12), ('Łódź', 8), ('Kraków', 9), ('Warszawa', 14)]
 
 # dane_grupowane = {}
 
